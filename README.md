@@ -2,7 +2,7 @@
 
 A Simple console-based Rock Paper Scissors game built using C.
 
-## FEATURES:-
+## 📍FEATURES:-
 - User vs Computer
 - Random Computer Choice
 - Winner Declaration
